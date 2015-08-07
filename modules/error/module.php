@@ -9,5 +9,11 @@ class module {
         echo "Page was not found - Error!";
         
         lang::translate('this is a test');
+        
+        lang::translate("This is another test' ");
+        
+        lang::translate('Yeah!');
+        
+         lang::translate('Yeah!');
     }
 }

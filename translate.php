@@ -9,6 +9,6 @@ $e->setDirsInsideDir('modules/*');
 
 print_r($e->dirs);
 
-$e->generateLang();
+$e->updateLang();
 
 
