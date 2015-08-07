@@ -1,0 +1,8 @@
+{
+    "require": {
+        "diversen/simple-php-github-api": "dev-master",
+        "diversen/simple-php-classes": "dev-master",
+        "diversen/http-send-file": "dev-master",
+        "symfony/filesystem": "^2.7"
+    }
+}
